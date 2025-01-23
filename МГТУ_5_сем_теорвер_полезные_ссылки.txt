@@ -1,0 +1,18 @@
+МГТУ 5 семестр ТеорВер подготовка к экзамену
+- теория
+https://docs.google.com/document/d/1Ot8Xfm9Me95vVYrwAemmPytabkAn0XgGzL2TdULNHx8/edit?tab=t.0#heading=h.n3csume0lcap
+https://github.com/Winterpuma/BMSTU/blob/main/5-semester/5-probability-theory/Exam/TV_Exam_RandomEvents.pdf
+- практика
+https://docs.google.com/document/d/188PW1B23dweRt1XN1moAWcDXvZRGP1mmRfohydsAUX0/edit?tab=t.0#heading=h.usmkoiehod3g
+- билет
+https://github.com/mRrvz/probability-mathstat/blob/main/probability/exam/ticket.pdf
+- РК3 теория
+https://github.com/ooosae/BMTU-5-TV/blob/main/RK3/report.pdf
+https://github.com/Winterpuma/BMSTU/blob/main/5-semester/5-probability-theory/RK3/TV_RK3_QA.pdf
+https://github.com/jokerva1010123/BMSTU-5-cem-TV/blob/main/TV_RK3_Voprosy_i_otvety.pdf
+- РК3 практика билеты
+https://disk.yandex.ru/d/fQj2LdSdhu0hLA
+- основные формулы комбинаторики
+https://ya-znau.ru/znaniya/zn/80
+- Курс лекций по Теории вероятностей и математической статистике Университета "Geekbrains" и практические задания к ним
+https://github.com/AlSavva/Probability_theory_-_statistics
